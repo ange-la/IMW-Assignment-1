@@ -1,0 +1,4055 @@
+/* CAPITAL A */
+.vertical-rectangle-left-A-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.vertical-rectangle-right-A-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 280px;
+  position: absolute;
+  left: 80.5px;
+  top: 70px;
+}
+
+.crossbar-crescent-A-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts A */
+.rectangle-bottom-whiteout-A-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+}
+
+.middle-whiteout-top-A-LIGHTPINK {
+  background: white;
+  width: 40.2px;
+  height: 80px;
+  position: absolute;
+  left: 40.1px;
+  top: 65px;
+}
+
+.middle-whiteout-bottom-A-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 40px;
+  top: 290px;
+}
+
+.whiteout-crossbar-A-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 40px;
+  top: 300px;
+}
+
+.whiteout-crossbar-bottom-A-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomleft-A-LIGHTPINK {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 290px;
+  box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-225deg);
+}
+
+.crescent-bottomright-A-LIGHTPINK {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+  box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-225deg);
+}
+
+.crescent-topleft-A-LIGHTPINK {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-225deg);
+}
+
+.crescent-topright-A-LIGHTPINK {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: -39.5px;
+  top: 10px;
+  box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL B */
+.vertical-left-rectangle-B-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-B-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 120.5px;
+	top: 300px;
+}
+
+.vertical-topright-rectangle-B-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 120.8px;
+	position: absolute;
+	left: 120.5px;
+	top: 69.5px;
+}
+
+/* Whiteouts B */
+.whiteout-topleft-B-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-rectangle-middle-B-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 55px;
+	position: absolute;
+	left: 80px;
+	top: 295px;
+}
+
+.whiteout-rectangle-bottomleft-B-LIGHTPINK {
+  background: white;
+	width: 35px;
+	height: 55px;
+	position: absolute;
+	left: 80px;
+	top: 280px;
+}
+
+.whiteout-oval-bottomright-B-LIGHTPINK {
+  width: 60px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 40.5px;
+	top: 246px;
+	box-shadow: 10px 10px 0 0 white;
+	transform: rotate(-45deg);
+}
+
+.whiteout-middle-B-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+.whiteout-middle-crescent-B-LIGHTPINK {
+	background: white;
+	width: 80px;
+	height: 120px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleright-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middletop-B-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-B-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 126.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL C */
+.vertical-rectangle-C-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-C-LIGHTPINK {
+	background: #eb9ac9;
+	width: 40px;
+	height: 50px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+/* Whiteouts C */
+.whiteout-bottom-middle-C-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 59.5px;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+}
+
+.whiteout-bottomright-C-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 119.5px;
+	top: 300px;
+}
+
+.whiteout-top-leftmiddle-C-LIGHTPINK {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 39.6px;
+	top: 70px;
+}
+
+.whiteout-point-one-C-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-C-LIGHTPINK {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-C-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-C-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-bpoint-one-C-LIGHTPINK {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-bpoint-two-C-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-bpoint-three-C-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 14.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-bpoint-four-C-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 40px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-C-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 61.2px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-C-LIGHTPINK {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-C-LIGHTPINK {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 340px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-C-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-C-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-C-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-C-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-curve-C-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL D */
+.vertical-left-rectangle-D-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-D-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120.5px;
+	top: 70px;
+}
+
+/* Whiteouts D */
+.whiteout-left-D-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-middle-D-LIGHTPINK {
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 80px;
+  top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottom-middleleft-D-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-D-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-D-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-D-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-D-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL E */
+.vertical-rectangle-E-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.crossbar-crescent-E-LIGHTPINK {
+	width: 127px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts E */
+.whiteout-bottom-middle-E-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-top-leftmiddle-E-LIGHTPINK {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-toppoint-one-E-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 80.5px;
+	top: 80px;
+}
+
+.whiteout-toppoint-two-E-LIGHTPINK {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78.2px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-toppoint-three-E-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 77.5px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-toppoint-four-E-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 76px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-point-one-E-LIGHTPINK {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 58px;
+	top: 319px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-E-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57.5px;
+	top: 327.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-E-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 55px;
+	top: 338px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-E-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 80.5px;
+  top: 290px;
+}
+
+.whiteout-left-E-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-crossbar-bottom-E-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118.5px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-E-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-E-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-E-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-E-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-E-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-lefttop-E-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL F */
+.vertical-rectangle-F-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.crossbar-crescent-F-LIGHTPINK {
+	width: 127px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts F */
+.whiteout-bottom-middle-F-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-top-leftmiddle-F-LIGHTPINK {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-point-one-F-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 80.5px;
+	top: 80px;
+}
+
+.whiteout-point-two-F-LIGHTPINK {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78.2px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-F-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 77.5px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-F-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 76px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-left-F-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-crossbar-bottom-F-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118.5px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-F-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-F-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-F-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-F-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-lefttop-F-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL G */
+.vertical-rectangle-G-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.black-crescent-middle-G-LIGHTPINK {
+  background: #eb9ac9;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	left: 100px;
+	top: 123px;
+}
+
+.vertical-rectangle-right-G-LIGHTPINK {
+  background: #eb9ac9;
+	width: 40px;
+	height: 176.5px;
+	position: absolute;
+	left: 80px;
+	top: 203.5px;
+}
+
+/* Whiteouts G */
+.whiteout-bottom-middle-G-LIGHTPINK {
+  background: white;
+	width: 40.5px;
+	height: 60px;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+}
+
+.whiteout-bottomright-G-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 26.5px;
+	position: absolute;
+	left: 120px;
+	top: 206.5px;
+}
+
+.whiteout-crescent-bottom-G-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 120px;
+	top: 143px;
+}
+
+.whiteout-top-leftmiddle-G-LIGHTPINK {
+  background: white;
+	width: 51px;
+	height: 70px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-point-one-G-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-G-LIGHTPINK {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-G-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-G-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-crescent-middle-G-LIGHTPINK {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 78.5px;
+  top: 147px;
+  box-shadow: 28px 28px 0 0 white;
+  transform: rotate(219deg);
+}
+
+.whiteout-middle-G-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 90px;
+  position: absolute;
+  left: 39.5px;
+  top: 93.5px;
+}
+
+.whiteout-right-G-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 156.5px;
+  position: absolute;
+  left: 120px;
+  top: 198.5px;
+}
+
+.whiteout-squaretop-G-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 16px;
+  position: absolute;
+  left: 79px;
+  top: 129px
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-G-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-G-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-G-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-G-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-G-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 119.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-G-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -39.5px;
+	top: 126.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-curve-G-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120px;
+	top: 140.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL H */
+.vertical-left-rectangle-H-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-H-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.crossbar-crescent-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts H */
+.top-left-rectangle-whiteout-H-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0.5px;
+	top: 70px;
+}
+
+.bottom-left-rectangle-whiteout-H-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.top-right-rectangle-whiteout-H-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.bottom-right-rectangle-whiteout-H-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 159.5px;
+	top: 270px;
+}
+
+.whiteout-crossbar-bottom-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-H-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-H-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL I */
+.vertical-rectangle-I-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+/* Whiteouts I */
+.top-rectangle-whiteout-I-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-rectangle-whiteout-I-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-top-I-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-I-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL J */
+.vertical-right-rectangle-J-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.vertical-left-rectangle-J-LIGHTPINK {
+  background: #eb9ac9;
+	width: 40px;
+	height: 50px;
+	position: absolute;
+	left: 0;
+	top: 300px;
+}
+
+/* Whiteouts J */
+.whiteout-top-J-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.whiteout-middlecrescent-J-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 74.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-vertical-J-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 290px;
+}
+
+.whiteout-diagonal-J-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 63.5px;
+	position: absolute;
+	left: 37.25px;
+	top: 293.5px;
+  transform: skew(4.2deg);
+}
+
+.whiteout-middle-J-LIGHTPINK {
+  background: white;
+  width: 50px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  left: 35px;
+  top: 345px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-middleleft-J-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomleft-J-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-J-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-top-J-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL K */
+.vertical-left-rectangle-K-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-K-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 110px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.vertical-bottomright-K-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 59px;
+	position: absolute;
+	left: 120px;
+	top: 290px;
+}
+
+/* Whiteouts K */
+.whiteout-topleft-K-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0.5px;
+	top: 70px;
+}
+
+.whiteout-bottomleft-K-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-middle-K-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 110px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-bottomright-K-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+}
+
+.whiteout-middle-crescent-K-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-K-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-K-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-K-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-K-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 123px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleright-K-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-K-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL L */
+.vertical-rectangle-left-L-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-L-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 120px;
+	top: 300px;
+}
+
+/* Whiteouts L */
+.top-rectangle-whiteout-L-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-rectangle-whiteout-L-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 75px;
+	position: absolute;
+	left: 79.5px;
+	top: 275px;
+}
+
+.whiteout-point-one-L-LIGHTPINK {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-L-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-L-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 54.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-L-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 80px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-L-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 101px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-L-LIGHTPINK {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-L-LIGHTPINK {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 340px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-top-L-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-L-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-L-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-L-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL M */
+.vertical-left-rectangle-M-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-middle-rectangle-M-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-M-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 200px;
+	top: 70px;
+}
+
+/* Whiteouts M */
+.whiteout-topleft-M-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-middleleft-M-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-middleright-M-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 159.5px;
+	top: 70px;
+}
+
+.whiteout-bottomright-M-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 239.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-right-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topmiddle-left-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topmiddle-right-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottommiddle-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-M-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 239.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL N */
+.vertical-rectangle-left-N-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-N-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts N */
+.middle-whiteout-N-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.top-left-whiteout-N-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-right-whiteout-N-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 159.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-N-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-N-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-N-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleleft-N-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-N-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL O */
+.vertical-rectangle-left-O-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-O-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Whiteouts O */
+.middle-whiteout-O-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomleft-O-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-O-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-O-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-O-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL P */
+.vertical-left-rectangle-P-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-P-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts P */
+.bottom-left-whiteout-P-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+.top-left-whiteout-P-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.middle-whiteout-P-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topleft-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topright-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-bottomleft-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-bottomright-P-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Q */
+.vertical-rectangle-left-Q-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-Q-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Whiteouts Q */
+.whiteout-middle-Q-LIGHTPINK {
+  background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-right-Q-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 175px;
+	top: 380.5px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-bottomcurve-Q-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 95.6px;
+	top: 379.5px;
+	box-shadow: 15px 15px 0 0 white;
+	transform: rotate(50deg);
+}
+
+.whiteout-topcurve-Q-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.9px;
+	top: 405px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-125deg);
+}
+
+.whiteout-circle-right-Q-LIGHTPINK {
+  background: white;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  position: absolute;
+  left: 125px;
+  top: 360px;
+}
+
+.whiteout-circle-left-Q-LIGHTPINK {
+  background: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: absolute;
+  left: 43px;
+  top: 450px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topright-Q-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-Q-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-Q-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-Q-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottom-Q-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 135.5px;
+	top: 380.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Skew https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew() */
+.skew-crescent-Q-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 388.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL R */
+.vertical-rectangle-left-R-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-R-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts R */
+.whiteout-middle-R-LIGHTPINK {
+  background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-bottomleft-R-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+.whiteout-topleft-R-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-crescent-br-R-LIGHTPINK {
+  background: white;
+  width: 80px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+}
+
+.whiteout-crescent-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120.5px;
+	top: 290px;
+	box-shadow: 28.7px 28.7px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crescent-swoop-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120.1px;
+	top: 289px;
+	box-shadow: 15px 15px 0 0 white;
+	transform: rotate(50deg);
+}
+
+.whiteout-bottom-smooth-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 199px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-top-smooth-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 42.2px;
+	top: 314px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-125deg);
+}
+
+.whiteout-crescent-bottom-R-LIGHTPINK {
+  width: 40px;
+	height: 65px;
+	border-radius: 50%;
+	position: absolute;
+	left: 121px;
+	top: 347px;
+	box-shadow: 20px 20px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-bottommiddle-R-LIGHTPINK {
+  background: white;
+  width: 25px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 99px;
+  top: 360px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topleft-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topright-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-bottomleft-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-bottomright-R-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 160px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+/* Skew https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew() */
+.skew-crescent-R-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -15.5px;
+	top: 298px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+
+
+
+
+
+
+
+
+/* CAPITAL S */
+.vertical-left-rectangle-S-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 96px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-right-rectangle-S-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 150px;
+	position: absolute;
+	left: 80px;
+	top: 200px;
+}
+
+.vertical-bottomleft-rectangle-S-LIGHTPINK {
+  background: #eb9ac9;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	top: 295px;
+}
+
+.right-blockout-S-LIGHTPINK {
+  background: #eb9ac9;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 95px;
+  top: 170px;
+}
+
+/* Triangle https://css-tricks.com/the-shapes-of-css/ */
+.triangle-right-S-LIGHTPINK {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 60px solid #eb9ac9;
+  position: absolute;
+  left: 89.5px;
+  top: 183px;
+}
+
+/* Whiteouts S */
+.whiteout-point-one-S-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-S-LIGHTPINK {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-S-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-S-LIGHTPINK {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-topmiddle-S-LIGHTPINK {
+  background: white;
+	width: 40.5px;
+	height: 96px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-bottom-S-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 58px;
+	position: absolute;
+	left: 40px;
+	top: 295px;
+}
+
+.whiteout-middleright-S-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -50px;
+	top: 27px;
+	box-shadow: 50px 50px 0 0 white;
+	transform: rotate(20deg);
+}
+
+.whiteout-right-crescent-S-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -0.5px;
+	top: 128px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-40deg);
+}
+
+.whiteout-topright-cover-S-LIGHTPINK {
+  background: white;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 85px;
+  top: 110px;
+}
+
+.whiteout-middlecrescent-S-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 74.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-vertical-S-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 290px;
+}
+
+.whiteout-diagonal-S-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 63.5px;
+	position: absolute;
+	left: 37.5px;
+	top: 293.5px;
+  transform: skew(4.3deg);
+}
+
+.whiteout-middle-S-LIGHTPINK {
+  background: white;
+  width: 50.5px;
+  height: 19.5px;
+  border-radius: 50%;
+  position: absolute;
+  left: 34.5px;
+  top: 345px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-S-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 103px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -26px;
+	top: 45px;
+	box-shadow: 45px 45px 0 0 #eb9ac9;
+	transform: rotate(20deg);
+}
+
+.crescent-bottomright-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomtop-S-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL T */
+.vertical-rectangle-T-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-cover-T-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 90px;
+	position: absolute;
+	left: 40px;
+	top: 120px;
+}
+
+/* Whiteouts T */
+.whiteout-left-T-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-right-T-LIGHTPINK {
+  background: white;
+	width: 40px;
+	height: 270px;
+	position: absolute;
+	left: 79.5px;
+	top: 80px;
+}
+
+.whiteout-top-T-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -39px;
+	top: 10.5px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-160deg);
+}
+
+.whiteout-top-crescent-T-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 32px;
+	top: -42px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(10deg);
+}
+
+.whiteout-right-crescent-T-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40.6px;
+	top: 63.3px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-T-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-T-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-T-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: -80px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(55deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL U */
+.vertical-rectangle-left-U-LIGHTPINK {
+	background: #eb9ac9;
+	width: 40.5px;
+	height: 290px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-U-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+/* Whiteouts U */
+.middle-whiteout-U-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 289.9px;
+	position: absolute;
+	left: 79.5px;
+	top: 65px;
+}
+
+.bottom-rectangle-whiteout-U-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 62px;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+}
+
+.top-rectangle-whiteout-U-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 65px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomright-U-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topleft-U-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-U-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-U-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-U-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL V */
+.vertical-rectangle-left-V-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 260px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-V-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 260px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+/* Whiteouts V */
+.middle-whiteout-V-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 257px;
+	position: absolute;
+	left: 79.5px;
+	top: 66.5px;
+}
+
+.top-rectangle-whiteout-V-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 65px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-V-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-V-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-left-V-LIGHTPINK {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-right-V-LIGHTPINK {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	position: absolute;
+	left: -60px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL W */
+.vertical-rectangle-left-W-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-middle-W-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-W-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 200px;
+	top: 65px;
+}
+
+/* Whiteouts W */
+.whiteout-left-W-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 0;
+  top: 70px;
+}
+
+.whiteout-middle-W-LIGHTPINK {
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 79.5px;
+  top: 70px;
+}
+
+.whiteout-right-W-LIGHTPINK {
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 159.5px;
+  top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-W-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topmiddle-W-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-W-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-W-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottom-middleleft-W-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-middleright-W-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-W-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+/* CAPITAL X */
+.vertical-rectangle-topleft-X-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 110px;
+  position: absolute;
+  left: 40px;
+  top: 70px;
+}
+
+.vertical-rectangle-topright-X-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 110px;
+  position: absolute;
+  left: 120px;
+  top: 70px;
+}
+
+.vertical-rectangle-bottomleft-X-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 60px;
+  position: absolute;
+  left: 40px;
+  top: 295px;
+}
+
+.vertical-rectangle-bottomright-X-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.7px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 295px;
+}
+
+/* Whiteouts X */
+.whiteout-middleleft-X-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 110px;
+  position: absolute;
+  left: 0;
+  top: 70px;
+}
+
+.whiteout-middletop-X-LIGHTPINK {
+  background: white;
+  width: 40.5px;
+  height: 110px;
+  position: absolute;
+  left: 79.5px;
+  top: 70px;
+}
+
+.whiteout-middlebottom-X-LIGHTPINK {
+  background: white;
+  width: 40.5px;
+  height: 59.5px;
+  position: absolute;
+  left: 79.5px;
+  top: 293.5px;
+}
+
+.whiteout-right-X-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 295px;
+}
+
+.whiteout-middleb-circle-X-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 275px;
+}
+
+.whiteout-middleb-oval-X-LIGHTPINK {
+  background: white;
+  width: 40px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 340px;
+}
+
+.whiteout-bottomright-X-LIGHTPINK {
+  background: white;
+  width: 80px;
+  height: 70px;
+  position: absolute;
+  left: 120px;
+  top: 280px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middletop-left-X-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 122.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middletop-right-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 122.5px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middlebottom-left-X-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middlebottom-right-X-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Y */
+.vertical-rectangle-left-Y-LIGHTPINK {
+  background: #eb9ac9;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-Y-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts Y */
+.whiteout-left-Y-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 192px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-middle-Y-LIGHTPINK {
+	background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-bottommiddle-Y-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-Y-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-Y-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-Y-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-Y-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-Y-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Z */
+.vertical-right-rectangle-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 100px;
+  position: absolute;
+  left: 80px;
+  top: 70px;
+}
+
+.vertical-left-rectangle-LIGHTPINK {
+  background: #eb9ac9;
+  width: 39.5px;
+  height: 160px;
+  position: absolute;
+  left: 0;
+  top: 190px;
+}
+
+.left-blockout-Z-LIGHTPINK {
+  background: #eb9ac9;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: -5.5px;
+  top: 170px;
+}
+
+.vertical-rectangle-bottom-Z-LIGHTPINK {
+	background: #eb9ac9;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+/* Whiteouts Z */
+.whiteout-right-Z-LIGHTPINK {
+  background: white;
+  width: 39.5px;
+  height: 90px;
+  position: absolute;
+  left: 40.5px;
+  top: 70px;
+}
+
+.whiteout-left-Z-LIGHTPINK {
+  background: white;
+  width: 39.5px;
+  height: 90px;
+  position: absolute;
+  left: 39.5px;
+  top: 260px;
+}
+
+.whiteout-left-crescent-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 128px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-220deg);
+}
+
+.whiteout-middleleft-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 65px;
+	top: 27px;
+	box-shadow: 50px 50px 0 0 white;
+	transform: rotate(80deg);
+}
+
+.whiteout-top-Z-LIGHTPINK {
+  background: white;
+  width: 80px;
+  height: 60px;
+  position: absolute;
+  left: -40px;
+  top: 70px;
+}
+
+.whiteout-bottom-right-Z-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 130px;
+  top: 425px;
+}
+
+.whiteout-point-one-Z-LIGHTPINK {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-Z-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-Z-LIGHTPINK {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 14.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-Z-LIGHTPINK {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 40px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-Z-LIGHTPINK {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 61px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-Z-LIGHTPINK {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-Z-LIGHTPINK {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 340px;
+}
+
+.bottom-rectangle-whiteout-Z-LIGHTPINK {
+	background: white;
+	width: 40px;
+	height: 75px;
+	position: absolute;
+	left: 39.5px;
+	top: 275px;
+}
+
+.whiteout-topleft-one-Z-LIGHTPINK {
+  width: 50px;
+	height: 90px;
+	border-radius: 50%;
+	position: absolute;
+	left: 65px;
+	top: 58px;
+	box-shadow: 25px 20px 0 0 white;
+	transform: rotate(-190deg);
+}
+
+.whiteout-topleft-two-Z-LIGHTPINK {
+  width: 20px;
+	height: 60px;
+	border-radius: 50%;
+	position: absolute;
+	left: 44.7px;
+	top: 45px;
+	box-shadow: 10px 15px 0 0 white;
+	transform: rotate(-160deg);
+}
+
+.whiteout-topleft-three-Z-LIGHTPINK {
+  background: white;
+  width: 11px;
+	height: 10px;
+	position: absolute;
+	left: 69px;
+	top: 120px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.topmiddle-crescent-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 103px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-Z-LIGHTPINK {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 24px;
+	top: 45px;
+	box-shadow: 45px 45px 0 0 #eb9ac9;
+	transform: rotate(70deg);
+}
+
+.crescent-right-Z-LIGHTPINK {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 #eb9ac9;
+	transform: rotate(-45deg);
+}
