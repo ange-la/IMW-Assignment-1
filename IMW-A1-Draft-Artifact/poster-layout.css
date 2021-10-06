@@ -2,14 +2,14 @@
 .paragraph-1 {
   font: 25px Helvetica, sans-serif;
   left: 100px;
-  top: 860px;
+  top: 900px;
   position: absolute;
 }
 
 .paragraph-2 {
   font: 25px Helvetica, sans-serif;
   left: 100px;
-  top: 2980px;
+  top: 2940px;
   position: absolute;
 }
 
@@ -18,20 +18,23 @@
   left: 100px;
   top: 3460px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-4 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 4060px;
+  left: 600px;
+  top: 3900px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-5 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 4600px;
+  left: 1100px;
+  top: 4300px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-6 {
@@ -39,41 +42,47 @@
   left: 100px;
   top: 5500px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-7 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 6100px;
+  left: 600px;
+  top: 5800px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-8 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 6660px;
+  left: 1100px;
+  top: 6200px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-9 {
   font: 25px Helvetica, sans-serif;
   left: 100px;
-  top: 7600px;
+  top: 7700px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-10 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
+  left: 600px;
   top: 8200px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-11 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 8700px;
+  left: 1100px;
+  top: 8400px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-12 {
@@ -81,6 +90,7 @@
   left: 100px;
   top: 9660px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-13 {
@@ -88,6 +98,7 @@
   left: 100px;
   top: 10560px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-14 {
@@ -95,6 +106,7 @@
   left: 100px;
   top: 12240px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-15 {
@@ -102,20 +114,23 @@
   left: 100px;
   top: 12740px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-16 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
+  left: 600px;
   top: 13160px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-17 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 13700px;
+  left: 1100px;
+  top: 13500px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-18 {
@@ -123,27 +138,31 @@
   left: 100px;
   top: 14360px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-19 {
   font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 14760px;
+  left: 600px;
+  top: 14560px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-20 {
   font: 25px Helvetica, sans-serif;
   left: 100px;
-  top: 15760px;
+  top: 15800px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-21 {
   font: 25px Helvetica, sans-serif;
   left: 100px;
-  top: 16700px;
+  top: 16660px;
   position: absolute;
+  width: 400px;
 }
 
 .paragraph-22 {
