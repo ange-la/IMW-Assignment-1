@@ -1,22 +1,22 @@
 .text-session1 {
-  left: 50px;
-  top: -1400px;
+  left: 80px;
+  top: -1615px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-one {
-  left: 700px;
-  top: -1580px;
+  left: 795px;
+  top: -1790px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-session2 {
-  left: 50px;
-  top: -910px;
+  left: 80px;
+  top: -2880px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -24,15 +24,15 @@
 
 .text-two {
   left: 700px;
-  top: -1090px;
+  top: -3050px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-session3 {
-  left: 50px;
-  top: -220px;
+  left: 80px;
+  top: -3980px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -40,15 +40,15 @@
 
 .text-three {
   left: 700px;
-  top: -400px;
+  top: -4140px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-session4 {
-  left: 50px;
-  top: -1020px;
+  left: 80px;
+  top: -6870px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -56,15 +56,15 @@
 
 .text-four {
   left: 700px;
-  top: -1190px;
+  top: -7040px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-session5 {
-  left: 50px;
-  top: -720px;
+  left: 80px;
+  top: -7660px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -72,7 +72,7 @@
 
 .text-five {
   left: 700px;
-  top: -890px;
+  top: -7820px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
