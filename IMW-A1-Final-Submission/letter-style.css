@@ -1,0 +1,4070 @@
+/* THE COMPLETE ALPHABET STAGE */
+.letter {
+
+  width: 280px; /*resize as you see fit */
+  height: 530px; /*resize as you see fit */
+  display: inline-block; /* this makes block level elements act like letters (so they sit next to eachother) */
+  border: 1px solid #000; /*feel free to remove or hide this rule */
+  position: relative; /* IMPORTANT: any element with position:absolute inside this container will now be relative to bounds of this element; */
+  overflow: hidden;
+}
+
+
+
+
+
+/* CAPITAL A */
+.vertical-rectangle-left-A {
+  background: black;
+  width: 39.5px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.vertical-rectangle-right-A {
+  background: black;
+  width: 39.5px;
+  height: 280px;
+  position: absolute;
+  left: 80.5px;
+  top: 70px;
+}
+
+.crossbar-crescent-A {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts A */
+.rectangle-bottom-whiteout-A {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+}
+
+.middle-whiteout-top-A {
+  background: white;
+  width: 40.2px;
+  height: 80px;
+  position: absolute;
+  left: 40.1px;
+  top: 65px;
+}
+
+.middle-whiteout-bottom-A {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 40px;
+  top: 290px;
+}
+
+.whiteout-crossbar-A {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 40px;
+  top: 300px;
+}
+
+.whiteout-crossbar-bottom-A {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomleft-A {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 290px;
+  box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-225deg);
+}
+
+.crescent-bottomright-A {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+  box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-225deg);
+}
+
+.crescent-topleft-A {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-225deg);
+}
+
+.crescent-topright-A {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: -39.5px;
+  top: 10px;
+  box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL B */
+.vertical-left-rectangle-B {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-B {
+	background: black;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 120.5px;
+	top: 300px;
+}
+
+.vertical-topright-rectangle-B {
+  background: black;
+	width: 39.5px;
+	height: 120.8px;
+	position: absolute;
+	left: 120.5px;
+	top: 69.5px;
+}
+
+/* Whiteouts B */
+.whiteout-topleft-B {
+	background: white;
+	width: 40.5px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-rectangle-middle-B {
+  background: white;
+	width: 40px;
+	height: 55px;
+	position: absolute;
+	left: 80px;
+	top: 295px;
+}
+
+.whiteout-rectangle-bottomleft-B {
+  background: white;
+	width: 35px;
+	height: 55px;
+	position: absolute;
+	left: 80px;
+	top: 280px;
+}
+
+.whiteout-oval-bottomright-B {
+  width: 60px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 40.5px;
+	top: 246px;
+	box-shadow: 10px 10px 0 0 white;
+	transform: rotate(-45deg);
+}
+
+.whiteout-middle-B {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+.whiteout-middle-crescent-B {
+	background: white;
+	width: 80px;
+	height: 120px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleright-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middletop-B {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-B {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 126.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL C */
+.vertical-rectangle-C {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-C {
+	background: black;
+	width: 40px;
+	height: 50px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+/* Whiteouts C */
+.whiteout-bottom-middle-C {
+  background: white;
+	width: 40px;
+	height: 59.5px;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+}
+
+.whiteout-bottomright-C {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 119.5px;
+	top: 300px;
+}
+
+.whiteout-top-leftmiddle-C {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 39.6px;
+	top: 70px;
+}
+
+.whiteout-point-one-C {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-C {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-C {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-C {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-bpoint-one-C {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-bpoint-two-C {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-bpoint-three-C {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 14.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-bpoint-four-C {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 40px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-C {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 61.2px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-C {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-C {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 340px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-C {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-C {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-C {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-C {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-curve-C {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL D */
+.vertical-left-rectangle-D {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-D {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120.5px;
+	top: 70px;
+}
+
+/* Whiteouts D */
+.whiteout-left-D {
+  background: white;
+  width: 40px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-middle-D {
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 80px;
+  top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottom-middleleft-D {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-D {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-D {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-D {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-D {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL E */
+.vertical-rectangle-E {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.crossbar-crescent-E {
+	width: 127px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts E */
+.whiteout-bottom-middle-E {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-top-leftmiddle-E {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-toppoint-one-E {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 80.5px;
+	top: 80px;
+}
+
+.whiteout-toppoint-two-E {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78.2px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-toppoint-three-E {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 77.5px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-toppoint-four-E {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 76px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-point-one-E {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 58px;
+	top: 319px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-E {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57.5px;
+	top: 327.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-E {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 55px;
+	top: 338px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-E {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 80.5px;
+  top: 290px;
+}
+
+.whiteout-left-E {
+  background: white;
+  width: 40px;
+  height: 280px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-crossbar-bottom-E {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118.5px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-E {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-E {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-E {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-E {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-E {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-lefttop-E {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL F */
+.vertical-rectangle-F {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.crossbar-crescent-F {
+	width: 127px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts F */
+.whiteout-bottom-middle-F {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-top-leftmiddle-F {
+  background: white;
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-point-one-F {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 80.5px;
+	top: 80px;
+}
+
+.whiteout-point-two-F {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 78.2px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-F {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 77.5px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-F {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 76px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-left-F {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 0.5px;
+  top: 70px;
+}
+
+.whiteout-crossbar-bottom-F {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118.5px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-F {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-F {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-F {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-F {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-lefttop-F {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL G */
+.vertical-rectangle-G {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.black-crescent-middle-G {
+  background: black;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	left: 100px;
+	top: 123px;
+}
+
+.vertical-rectangle-right-G {
+  background: black;
+	width: 40px;
+	height: 176.5px;
+	position: absolute;
+	left: 80px;
+	top: 203.5px;
+}
+
+/* Whiteouts G */
+.whiteout-bottom-middle-G {
+  background: white;
+	width: 40.5px;
+	height: 60px;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+}
+
+.whiteout-bottomright-G {
+  background: white;
+	width: 40px;
+	height: 26.5px;
+	position: absolute;
+	left: 120px;
+	top: 206.5px;
+}
+
+.whiteout-crescent-bottom-G {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 120px;
+	top: 143px;
+}
+
+.whiteout-top-leftmiddle-G {
+  background: white;
+	width: 51px;
+	height: 70px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-point-one-G {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-G {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-G {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-G {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-crescent-middle-G {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 78.5px;
+  top: 147px;
+  box-shadow: 28px 28px 0 0 white;
+  transform: rotate(219deg);
+}
+
+.whiteout-middle-G {
+  background: white;
+  width: 40px;
+  height: 90px;
+  position: absolute;
+  left: 39.5px;
+  top: 93.5px;
+}
+
+.whiteout-right-G {
+  background: white;
+  width: 40px;
+  height: 156.5px;
+  position: absolute;
+  left: 120px;
+  top: 198.5px;
+}
+
+.whiteout-squaretop-G {
+  background: white;
+  width: 10px;
+  height: 16px;
+  position: absolute;
+  left: 79px;
+  top: 129px
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-G {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-G {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-G {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-G {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-G {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 119.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-G {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -39.5px;
+	top: 126.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-curve-G {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120px;
+	top: 140.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL H */
+.vertical-left-rectangle-H {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-H {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.crossbar-crescent-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Whiteouts H */
+.top-left-rectangle-whiteout-H {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0.5px;
+	top: 70px;
+}
+
+.bottom-left-rectangle-whiteout-H {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.top-right-rectangle-whiteout-H {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.bottom-right-rectangle-whiteout-H {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 159.5px;
+	top: 270px;
+}
+
+.whiteout-crossbar-bottom-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 118px;
+	top: 241px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crossbar-H {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 300px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-H {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL I */
+.vertical-rectangle-I {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+/* Whiteouts I */
+.top-rectangle-whiteout-I {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-rectangle-whiteout-I {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-top-I {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-I {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL J */
+.vertical-right-rectangle-J {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.vertical-left-rectangle-J {
+  background: black;
+	width: 40px;
+	height: 50px;
+	position: absolute;
+	left: 0;
+	top: 300px;
+}
+
+/* Whiteouts J */
+.whiteout-top-J {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.whiteout-middlecrescent-J {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 74.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-vertical-J {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 290px;
+}
+
+.whiteout-diagonal-J {
+  background: white;
+	width: 20px;
+	height: 63.5px;
+	position: absolute;
+	left: 37.25px;
+	top: 293.5px;
+  transform: skew(4.2deg);
+}
+
+.whiteout-middle-J {
+  background: white;
+  width: 50px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  left: 35px;
+  top: 345px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-middleleft-J {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomleft-J {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-J {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-top-J {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL K */
+.vertical-left-rectangle-K {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40.5px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-K {
+  background: black;
+	width: 39.5px;
+	height: 110px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.vertical-bottomright-K {
+  background: black;
+	width: 39.5px;
+	height: 59px;
+	position: absolute;
+	left: 120px;
+	top: 290px;
+}
+
+/* Whiteouts K */
+.whiteout-topleft-K {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0.5px;
+	top: 70px;
+}
+
+.whiteout-bottomleft-K {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+}
+
+.whiteout-middle-K {
+	background: white;
+	width: 40px;
+	height: 110px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.whiteout-bottomright-K {
+	background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+}
+
+.whiteout-middle-crescent-K {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-K {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-K {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-K {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-K {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 123px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleright-K {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-K {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL L */
+.vertical-rectangle-left-L {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-L {
+	background: black;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 120px;
+	top: 300px;
+}
+
+/* Whiteouts L */
+.top-rectangle-whiteout-L {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-rectangle-whiteout-L {
+	background: white;
+	width: 40px;
+	height: 75px;
+	position: absolute;
+	left: 79.5px;
+	top: 275px;
+}
+
+.whiteout-point-one-L {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-L {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 57px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-L {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 54.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-L {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 80px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-L {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 101px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-L {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-L {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 340px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-top-L {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-L {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-L {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-L {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL M */
+.vertical-left-rectangle-M {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-middle-rectangle-M {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-M {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 200px;
+	top: 70px;
+}
+
+/* Whiteouts M */
+.whiteout-topleft-M {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-middleleft-M {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-middleright-M {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 159.5px;
+	top: 70px;
+}
+
+.whiteout-bottomright-M {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 239.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-right-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topmiddle-left-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topmiddle-right-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottommiddle-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-M {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 239.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL N */
+.vertical-rectangle-left-N {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-N {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts N */
+.middle-whiteout-N {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.top-left-whiteout-N {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.bottom-right-whiteout-N {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 159.5px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-N {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-N {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-N {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleleft-N {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-N {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL O */
+.vertical-rectangle-left-O {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-O {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Whiteouts O */
+.middle-whiteout-O {
+	background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomleft-O {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-O {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-O {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-O {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL P */
+.vertical-left-rectangle-P {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-right-rectangle-P {
+	background: black;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts P */
+.bottom-left-whiteout-P {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+.top-left-whiteout-P {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.middle-whiteout-P {
+	background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topleft-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topright-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-bottomleft-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-bottomright-P {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Q */
+.vertical-rectangle-left-Q {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-rectangle-right-Q {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+/* Whiteouts Q */
+.whiteout-middle-Q {
+  background: white;
+	width: 40.5px;
+	height: 280px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-right-Q {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 175px;
+	top: 380.5px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-bottomcurve-Q {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 95.6px;
+	top: 379.5px;
+	box-shadow: 15px 15px 0 0 white;
+	transform: rotate(50deg);
+}
+
+.whiteout-topcurve-Q {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.9px;
+	top: 405px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-125deg);
+}
+
+.whiteout-circle-right-Q{
+  background: white;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  position: absolute;
+  left: 125px;
+  top: 360px;
+}
+
+.whiteout-circle-left-Q {
+  background: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: absolute;
+  left: 43px;
+  top: 450px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topright-Q {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topleft-Q {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-Q {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-Q {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottom-Q {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 135.5px;
+	top: 380.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Skew https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew() */
+.skew-crescent-Q {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 388.5px;
+	box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL R */
+.vertical-rectangle-left-R {
+  background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-R {
+  background: black;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts R */
+.whiteout-middle-R {
+  background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-bottomleft-R {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 79.5px;
+	top: 270px;
+}
+
+.whiteout-topleft-R {
+  background: white;
+	width: 40px;
+	height: 280px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-crescent-br-R {
+  background: white;
+  width: 80px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 290px;
+}
+
+.whiteout-crescent-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120.5px;
+	top: 290px;
+	box-shadow: 28.7px 28.7px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-crescent-swoop-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 120.1px;
+	top: 289px;
+	box-shadow: 15px 15px 0 0 white;
+	transform: rotate(50deg);
+}
+
+.whiteout-bottom-smooth-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 199px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-top-smooth-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 42.2px;
+	top: 314px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-125deg);
+}
+
+.whiteout-crescent-bottom-R {
+  width: 40px;
+	height: 65px;
+	border-radius: 50%;
+	position: absolute;
+	left: 121px;
+	top: 347px;
+	box-shadow: 20px 20px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-bottommiddle-R {
+  background: white;
+  width: 25px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 99px;
+  top: 360px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topleft-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-topright-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-bottomleft-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middle-bottomright-R {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 160px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+/* Skew https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew() */
+.skew-crescent-R {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -15.5px;
+	top: 298px;
+	box-shadow: 28px 28px 0 0 black;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+
+
+
+
+
+
+
+
+/* CAPITAL S */
+.vertical-left-rectangle-S {
+  background: black;
+	width: 39.5px;
+	height: 96px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.vertical-right-rectangle-S {
+  background: black;
+	width: 39.5px;
+	height: 150px;
+	position: absolute;
+	left: 80px;
+	top: 200px;
+}
+
+.vertical-bottomleft-rectangle-S {
+  background: black;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	top: 295px;
+}
+
+.right-blockout-S {
+  background: black;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 95px;
+  top: 170px;
+}
+
+/* Triangle https://css-tricks.com/the-shapes-of-css/ */
+.triangle-right-S {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 60px solid black;
+  position: absolute;
+  left: 89.5px;
+  top: 183px;
+}
+
+/* Whiteouts S */
+.whiteout-point-one-S {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.whiteout-point-two-S {
+  width: 35px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37.7px;
+	top: 47px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(19.5deg);
+}
+
+.whiteout-point-three-S {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(2deg);
+}
+
+.whiteout-point-four-S {
+  width: 40px;
+	height: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 35.5px;
+	top: 24px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+.whiteout-topmiddle-S {
+  background: white;
+	width: 40.5px;
+	height: 96px;
+	position: absolute;
+	left: 39.5px;
+	top: 70px;
+}
+
+.whiteout-bottom-S {
+  background: white;
+	width: 40px;
+	height: 58px;
+	position: absolute;
+	left: 40px;
+	top: 295px;
+}
+
+.whiteout-middleright-S {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -50px;
+	top: 27px;
+	box-shadow: 50px 50px 0 0 white;
+	transform: rotate(20deg);
+}
+
+.whiteout-right-crescent-S {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -0.5px;
+	top: 128px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-40deg);
+}
+
+.whiteout-topright-cover-S {
+  background: white;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 85px;
+  top: 110px;
+}
+
+.whiteout-middlecrescent-S {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 74.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-225deg);
+}
+
+.whiteout-vertical-S {
+  background: white;
+	width: 40px;
+	height: 60px;
+	position: absolute;
+	left: 40px;
+	top: 290px;
+}
+
+.whiteout-diagonal-S {
+  background: white;
+	width: 20px;
+	height: 63.5px;
+	position: absolute;
+	left: 37.5px;
+	top: 293.5px;
+  transform: skew(4.3deg);
+}
+
+.whiteout-middle-S {
+  background: white;
+  width: 50.5px;
+  height: 19.5px;
+  border-radius: 50%;
+  position: absolute;
+  left: 34.5px;
+  top: 345px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middle-S {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 103px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -26px;
+	top: 45px;
+	box-shadow: 45px 45px 0 0 black;
+	transform: rotate(20deg);
+}
+
+.crescent-bottomright-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomtop-S {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL T */
+.vertical-rectangle-T {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-cover-T {
+	background: black;
+	width: 39.5px;
+	height: 90px;
+	position: absolute;
+	left: 40px;
+	top: 120px;
+}
+
+/* Whiteouts T */
+.whiteout-left-T {
+  background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-right-T {
+  background: white;
+	width: 40px;
+	height: 270px;
+	position: absolute;
+	left: 79.5px;
+	top: 80px;
+}
+
+.whiteout-top-T {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -39px;
+	top: 10.5px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-160deg);
+}
+
+.whiteout-top-crescent-T {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 32px;
+	top: -42px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(10deg);
+}
+
+.whiteout-right-crescent-T {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40.6px;
+	top: 63.3px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-10deg);
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-T {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-T {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-T {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: -80px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(55deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* CAPITAL U */
+.vertical-rectangle-left-U {
+	background: black;
+	width: 40.5px;
+	height: 290px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-U {
+	background: black;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+/* Whiteouts U */
+.middle-whiteout-U {
+	background: white;
+	width: 40.5px;
+	height: 289.9px;
+	position: absolute;
+	left: 79.5px;
+	top: 65px;
+}
+
+.bottom-rectangle-whiteout-U {
+	background: white;
+	width: 40px;
+	height: 62px;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+}
+
+.top-rectangle-whiteout-U {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 65px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-bottomright-U {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topleft-U {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-U {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-U {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-U {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL V */
+.vertical-rectangle-left-V {
+	background: black;
+	width: 39.5px;
+	height: 260px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-V {
+	background: black;
+	width: 39.5px;
+	height: 260px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+/* Whiteouts V */
+.middle-whiteout-V {
+	background: white;
+	width: 40.5px;
+	height: 257px;
+	position: absolute;
+	left: 79.5px;
+	top: 66.5px;
+}
+
+.top-rectangle-whiteout-V {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	top: 65px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-V {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-V {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-left-V {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-right-V {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	position: absolute;
+	left: -60px;
+	top: 230px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL W */
+.vertical-rectangle-left-W {
+  background: black;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 40px;
+	top: 65px;
+}
+
+.vertical-rectangle-middle-W {
+  background: black;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 120px;
+	top: 65px;
+}
+
+.vertical-rectangle-right-W {
+  background: black;
+	width: 39.5px;
+	height: 290px;
+	position: absolute;
+	left: 200px;
+	top: 65px;
+}
+
+/* Whiteouts W */
+.whiteout-left-W {
+  background: white;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  left: 0;
+  top: 70px;
+}
+
+.whiteout-middle-W{
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 79.5px;
+  top: 70px;
+}
+
+.whiteout-right-W {
+  background: white;
+  width: 40.5px;
+  height: 280px;
+  position: absolute;
+  left: 159.5px;
+  top: 70px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-W {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topmiddle-W {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-W {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-W {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottom-middleleft-W {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottom-middleright-W {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-W {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 80px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+/* CAPITAL X */
+.vertical-rectangle-topleft-X {
+  background: black;
+  width: 39.5px;
+  height: 110px;
+  position: absolute;
+  left: 40px;
+  top: 70px;
+}
+
+.vertical-rectangle-topright-X {
+  background: black;
+  width: 39.5px;
+  height: 110px;
+  position: absolute;
+  left: 120px;
+  top: 70px;
+}
+
+.vertical-rectangle-bottomleft-X {
+  background: black;
+  width: 39.5px;
+  height: 60px;
+  position: absolute;
+  left: 40px;
+  top: 295px;
+}
+
+.vertical-rectangle-bottomright-X {
+  background: black;
+  width: 39.7px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 295px;
+}
+
+/* Whiteouts X */
+.whiteout-middleleft-X {
+  background: white;
+  width: 40px;
+  height: 110px;
+  position: absolute;
+  left: 0;
+  top: 70px;
+}
+
+.whiteout-middletop-X {
+  background: white;
+  width: 40.5px;
+  height: 110px;
+  position: absolute;
+  left: 79.5px;
+  top: 70px;
+}
+
+.whiteout-middlebottom-X {
+  background: white;
+  width: 40.5px;
+  height: 59.5px;
+  position: absolute;
+  left: 79.5px;
+  top: 293.5px;
+}
+
+.whiteout-right-X {
+  background: white;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 120px;
+  top: 295px;
+}
+
+.whiteout-middleb-circle-X {
+  background: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 275px;
+}
+
+.whiteout-middleb-oval-X {
+  background: white;
+  width: 40px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 340px;
+}
+
+.whiteout-bottomright-X {
+  background: white;
+  width: 80px;
+  height: 70px;
+  position: absolute;
+  left: 120px;
+  top: 280px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 159.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middletop-left-X {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 122.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middletop-right-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 122.5px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middlebottom-left-X {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middlebottom-right-X {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 236px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Y */
+.vertical-rectangle-left-Y {
+  background: black;
+	width: 39.5px;
+	height: 192px;
+	position: absolute;
+	left: 40px;
+	top: 70px;
+}
+
+.vertical-rectangle-right-Y {
+	background: black;
+	width: 39.5px;
+	height: 280px;
+	position: absolute;
+	left: 120px;
+	top: 70px;
+}
+
+/* Whiteouts Y */
+.whiteout-left-Y {
+	background: white;
+	width: 40px;
+	height: 192px;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+
+.whiteout-middle-Y {
+	background: white;
+	width: 40.5px;
+	height: 192px;
+	position: absolute;
+	left: 79.5px;
+	top: 70px;
+}
+
+.whiteout-bottommiddle-Y {
+	background: white;
+	width: 40px;
+	height: 80px;
+	position: absolute;
+	left: 80px;
+	top: 270px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-Y {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -80px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-topright-Y {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-Y {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 79.5px;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-middleright-Y {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 202px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomright-Y {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+
+/* CAPITAL Z */
+.vertical-right-rectangle {
+  background: black;
+  width: 39.5px;
+  height: 100px;
+  position: absolute;
+  left: 80px;
+  top: 70px;
+}
+
+.vertical-left-rectangle {
+  background: black;
+  width: 39.5px;
+  height: 160px;
+  position: absolute;
+  left: 0;
+  top: 190px;
+}
+
+.left-blockout-Z {
+  background: black;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: -5.5px;
+  top: 170px;
+}
+
+.vertical-rectangle-bottom-Z {
+	background: black;
+	width: 39.5px;
+	height: 50px;
+	position: absolute;
+	left: 80px;
+	top: 300px;
+}
+
+/* Whiteouts Z */
+.whiteout-right-Z {
+  background: white;
+  width: 39.5px;
+  height: 90px;
+  position: absolute;
+  left: 40.5px;
+  top: 70px;
+}
+
+.whiteout-left-Z {
+  background: white;
+  width: 39.5px;
+  height: 90px;
+  position: absolute;
+  left: 39.5px;
+  top: 260px;
+}
+
+.whiteout-left-crescent-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 128px;
+	box-shadow: 28px 28px 0 0 white;
+	transform: rotate(-220deg);
+}
+
+.whiteout-middleleft-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 65px;
+	top: 27px;
+	box-shadow: 50px 50px 0 0 white;
+	transform: rotate(80deg);
+}
+
+.whiteout-top-Z {
+  background: white;
+  width: 80px;
+  height: 60px;
+  position: absolute;
+  left: -40px;
+  top: 70px;
+}
+
+.whiteout-bottom-right-Z {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 130px;
+  top: 425px;
+}
+
+.whiteout-point-one-Z {
+  width: 70px;
+	height: 35px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17.5px;
+	top: 269px;
+	box-shadow: 11px 14px 0 0 white;
+	transform: rotate(-115deg);
+}
+
+.whiteout-point-two-Z {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 17px;
+	top: 277.5px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-90deg);
+}
+
+.whiteout-point-three-Z {
+  width: 80px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	left: 14.5px;
+	top: 288px;
+	box-shadow: 5px 5px 0 0 white;
+	transform: rotate(-80deg);
+}
+
+.whiteout-point-four-Z {
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 40px;
+  top: 240px;
+}
+
+.whiteout-rectangle-right-Z {
+  background: white;
+	width: 20px;
+	height: 60px;
+	position: absolute;
+	left: 61px;
+	top: 291px;
+  transform: rotate(1.8deg);
+}
+
+.whiteout-bottom-oval-one-Z {
+  background: white;
+  width: 42px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 280px;
+}
+
+.whiteout-bottom-oval-two-Z {
+  background: white;
+  width: 45px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+  left: 40px;
+  top: 340px;
+}
+
+.bottom-rectangle-whiteout-Z {
+	background: white;
+	width: 40px;
+	height: 75px;
+	position: absolute;
+	left: 39.5px;
+	top: 275px;
+}
+
+.whiteout-topleft-one-Z {
+  width: 50px;
+	height: 90px;
+	border-radius: 50%;
+	position: absolute;
+	left: 65px;
+	top: 58px;
+	box-shadow: 25px 20px 0 0 white;
+	transform: rotate(-190deg);
+}
+
+.whiteout-topleft-two-Z {
+  width: 20px;
+	height: 60px;
+	border-radius: 50%;
+	position: absolute;
+	left: 44.7px;
+	top: 45px;
+	box-shadow: 10px 15px 0 0 white;
+	transform: rotate(-160deg);
+}
+
+.whiteout-topleft-three-Z {
+  background: white;
+  width: 11px;
+	height: 10px;
+	position: absolute;
+	left: 69px;
+	top: 120px;
+}
+
+/* Moon https://css-tricks.com/the-shapes-of-css/ */
+.crescent-topleft-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-topright-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 10px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.topmiddle-crescent-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 103px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-bottomleft-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 39.5px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-225deg);
+}
+
+.crescent-bottomright-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 290px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
+
+.crescent-middleleft-Z {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: 24px;
+	top: 45px;
+	box-shadow: 45px 45px 0 0 black;
+	transform: rotate(70deg);
+}
+
+.crescent-right-Z {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	left: -40px;
+	top: 240px;
+	box-shadow: 28px 28px 0 0 black;
+	transform: rotate(-45deg);
+}
