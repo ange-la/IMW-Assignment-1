@@ -1,6 +1,6 @@
 .text-keynote1 {
-  left: 0;
-  top: 2400px;
+  left: 50px;
+  top: 180px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -8,15 +8,15 @@
 
 .text-k-one {
   left: 700px;
-  top: 2200px;
+  top: 0;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-keynote2 {
-  left: 0;
-  top: 2200px;
+  left: 50px;
+  top: -170px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -24,15 +24,15 @@
 
 .text-k-two {
   left: 700px;
-  top: 2000px;
+  top: -340px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-keynote3 {
-  left: 0;
-  top: 2650px;
+  left: 50px;
+  top: -470px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -40,15 +40,15 @@
 
 .text-k-three {
   left: 700px;
-  top: 2460px;
+  top: -650px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
 }
 
 .text-keynote4 {
-  left: 0;
-  top: 2450px;
+  left: 50px;
+  top: -820px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -56,7 +56,7 @@
 
 .text-k-four {
   left: 700px;
-  top: 2250px;
+  top: -1000px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;

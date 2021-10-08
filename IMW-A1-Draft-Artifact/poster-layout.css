@@ -3,16 +3,20 @@
   width: 280px; /*resize as you see fit */
   height: 530px; /*resize as you see fit */
   display: inline-block; /* this makes block level elements act like letters (so they sit next to eachother) */
+/*  border: 1px solid #000; /*feel free to remove or hide this rule */
   position: relative; /* IMPORTANT: any element with position:absolute inside this container will now be relative to bounds of this element; */
   overflow: hidden;
 }
 
 .letter-A {
-  width: 120px;
+  width: 160px;
+  margin-left: 30px;
 }
 
 .letter-B {
   width: 160px;
+  margin-left: -40px;
+  margin-right: 40px;
 }
 
 .letter-C {
@@ -20,59 +24,76 @@
 }
 
 .letter-D {
-  width: 190px;
+  width: 160px;
+  margin-right: 8px;
 }
 
 .letter-E {
   width: 160px;
+  margin-left: -40px;
+  margin-right: 40px;
 }
 
 .letter-F {
   width: 160px;
+  margin-right: 40px;
 }
 
 .letter-G {
-  width: 180px;
+  width: 160px;
 }
 
 .letter-H {
-  width: 170px;
+  width: 200px;
+  margin-left: -5px;
 }
 
 .letter-I {
-  width: 80px;
+  width: 120px;
+  margin-left: -40px;
 }
 
 .letter-K {
-  width: 160px;
+  width: 200px;
+}
+
+.letter-M {
+  width: 280px;
+  margin-left: -40px;
 }
 
 .letter-N {
-  width: 160px;
+  width: 200px;
 }
 
 .letter-O {
   width: 120px;
+  margin-left: 30px;
+  margin-right: 40px;
 }
 
 .letter-P {
-  width: 195px;
+  width: 160px;
+  margin-right: 40px;
 }
 
 .letter-R {
-  width: 160px;
+  width: 200px;
+  margin-left: -40px;
 }
 
 .letter-S {
   width: 120px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .letter-T {
-  width: 160px;
+  width: 155px;
 }
 
 .letter-U {
-  width: 150px;
+  width: 200px;
 }
 
 .letter-V {
@@ -81,193 +102,198 @@
 
 .letter-W {
   width: 240px;
+  margin-right: 40px;
 }
 
 .letter-X {
-  width: 160px;
+  width: 200px;
+  margin-left: -40px;
+  margin-right: -40px;
 }
 
 .letter-Y {
   width: 160px;
+  margin-left: -40px;
 }
 
 .letter-Z {
   width: 120px;
+  margin-right: 40px;
 }
 
 
 
 /* Paragraphs */
 .paragraph-1 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 900px;
+  top: 700px;
   position: absolute;
 }
 
 .paragraph-2 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 2940px;
+  top: 2275px;
   position: absolute;
 }
 
 .paragraph-3 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 3460px;
+  top: 2750px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-4 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 600px;
-  top: 3900px;
+  top: 3100px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-5 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 1100px;
-  top: 4300px;
+  top: 3450px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-6 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 5500px;
+  top: 4310px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-7 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 600px;
-  top: 5800px;
+  top: 4660px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-8 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 1100px;
-  top: 6200px;
+  top: 5010px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-9 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 7700px;
+  top: 6070px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-10 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 600px;
-  top: 8200px;
+  top: 6420px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-11 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 1100px;
-  top: 8400px;
+  top: 6600px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-12 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 9660px;
+  top: 7500px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-13 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 10560px;
+  top: 8240px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-14 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 12240px;
+  top: 9590px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-15 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 12740px;
+  top: 10070px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-16 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 600px;
-  top: 13160px;
+  top: 10420px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-17 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 1100px;
-  top: 13500px;
+  top: 10570px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-18 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 14360px;
+  top: 11440px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-19 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 600px;
-  top: 14560px;
+  top: 11790px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-20 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 15800px;
+  top: 12730px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-21 {
-  font: 25px Helvetica, sans-serif;
+  font: 22px Helvetica, sans-serif;
   left: 100px;
-  top: 16660px;
+  top: 13440px;
   position: absolute;
   width: 400px;
 }
 
 .paragraph-22 {
-  font: 25px Helvetica, sans-serif;
-  left: 100px;
-  top: 17040px;
+  font: 22px Helvetica, sans-serif;
+  left: 780px;
+  top: 14065px;
   position: absolute;
 }
 
@@ -279,7 +305,7 @@
 
 /* THEORIZING the web KERNING */
 .text-theorizing {
-  left: 0;
+  left: 50px;
   top: 0;
   position: relative;
   transform: scale(0.8);
@@ -292,8 +318,8 @@
 
 /* theorizing THE web KERNING */
 .text-the {
-  left: 0;
-  top: -100px;
+  left: 440px;
+  top: -180px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -304,8 +330,8 @@
 
 /* theorizing the WEB KERNING */
 .text-web {
-  left: 600px;
-  top: -630px;
+  left: 900px;
+  top: -715px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -316,8 +342,8 @@
 
 /* PROGRAM */
 .text-program {
-  left: 0;
-  top: -400px;
+  left: 50px;
+  top: -690px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -329,8 +355,8 @@
 
 /* FRIDAY october sixteen */
 .text-friday {
-  left: 0;
-  top: -400px;
+  left: 50px;
+  top: -860px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -344,8 +370,8 @@
 
 /* friday OCTOBER sixteen */
 .text-october-16 {
-  left: 0;
-  top: -400px;
+  left: 300px;
+  top: -1040px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -358,8 +384,8 @@
 
 /* friday october SIXTEEN */
 .text-sixteen {
-  left: 420px;
-  top: -500px;
+  left: 520px;
+  top: -1220px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -370,335 +396,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-/* session ONE */
-.session-ONE-O {
-  left: 1025px;
-  top: 3440px;
-  position: absolute;
-}
-
-.session-ONE-N {
-  left: 1145px;
-  top: 3440px;
-  position: absolute;
-}
-
-.session-ONE-E {
-  left: 1305px;
-  top: 3440px;
-  position: absolute;
-}
-
-
-
-
-
-/* SESSION two */
-.SESSION-two-S1 {
-  left: 0;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-E {
-  left: 120px;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-S2 {
-  left: 305px;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-S3 {
-  left: 455px;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-I {
-  left: 575px;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-O {
-  left: 695px;
-  top: 5060px;
-  position: absolute;
-}
-
-.SESSION-two-N {
-  left: 815px;
-  top: 5060px;
-  position: absolute;
-}
-
-
-
-
-
-/* session TWO */
-.session-TWO-T {
-  left: 870px;
-  top: 5500px;
-  position: absolute;
-}
-
-.session-TWO-W {
-  left: 1030px;
-  top: 5500px;
-  position: absolute;
-}
-
-.session-TWO-O {
-  left: 1305px;
-  top: 5500px;
-  position: absolute;
-}
-
-
-
-
-
-/* SESSION three */
-.SESSION-three-S1 {
-  left: 0;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-E {
-  left: 120px;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-S2 {
-  left: 305px;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-S3 {
-  left: 455px;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-I {
-  left: 575px;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-O {
-  left: 695px;
-  top: 7200px;
-  position: absolute;
-}
-
-.SESSION-three-N {
-  left: 815px;
-  top: 7200px;
-  position: absolute;
-}
-
-
-
-
-
-/* session THREE */
-.session-THREE-T {
-  left: 660px;
-  top: 7640px;
-  position: absolute;
-}
-
-.session-THREE-H {
-  left: 820px;
-  top: 7640px;
-  position: absolute;
-}
-
-.session-THREE-R {
-  left: 980px;
-  top: 7640px;
-  position: absolute;
-}
-
-.session-THREE-E1 {
-  left: 1140px;
-  top: 7640px;
-  position: absolute;
-}
-
-.session-THREE-E2 {
-  left: 1305px;
-  top: 7640px;
-  position: absolute;
-}
-
-
-
-
-
-/* KEYNOTE one */
-.KEYNOTE-one-K {
-  left: 0;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-E1 {
-  left: 160px;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-Y {
-  left: 320px;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-N {
-  left: 480px;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-O {
-  left: 675px;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-T {
-  left: 795px;
-  top: 9200px;
-  position: absolute;
-}
-
-.KEYNOTE-one-E2 {
-  left: 950px;
-  top: 9200px;
-  position: absolute;
-}
-
-
-
-
-
-/* keynote ONE */
-.keynote-ONE-O {
-  left: 1025px;
-  top: 9640px;
-  position: absolute;
-}
-
-.keynote-ONE-N {
-  left: 1145px;
-  top: 9640px;
-  position: absolute;
-}
-
-.keynote-ONE-E {
-  left: 1305px;
-  top: 9640px;
-  position: absolute;
-}
-
-
-
-
-
-/* KEYNOTE two */
-.KEYNOTE-two-K {
-  left: 0;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-E1 {
-  left: 160px;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-Y {
-  left: 320px;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-N {
-  left: 480px;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-O {
-  left: 675px;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-T {
-  left: 795px;
-  top: 10100px;
-  position: absolute;
-}
-
-.KEYNOTE-two-E2 {
-  left: 950px;
-  top: 10100px;
-  position: absolute;
-}
-
-
-
-
-
-/* keynote TWO */
-.keynote-TWO-T {
-  left: 870px;
-  top: 10540px;
-  position: absolute;
-}
-
-.keynote-TWO-W {
-  left: 1030px;
-  top: 10540px;
-  position: absolute;
-}
-
-.keynote-TWO-O {
-  left: 1305px;
-  top: 10540px;
-  position: absolute;
-}
-
-
-
-
-
-
 /* SATURDAY october seventeen */
 .text-saturday {
-  left: 0;
-  top: 1900px;
+  left: 50px;
+  top: -510px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -711,7 +412,7 @@
 /* saturday OCTOBER seventeen */
 .text-october-17 {
   left: 305px;
-  top: 1700px;
+  top: -680px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -723,8 +424,8 @@
 
 /* saturday october SEVENTEEN */
 .text-seventeen {
-  left: 200px;
-  top: 1500px;
+  left: 340px;
+  top: -850px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
@@ -733,233 +434,7 @@
 
 
 
-/* SESSION four */
-.SESSION-four-S1 {
-  left: 0;
-  top: 12300px;
-  position: absolute;
-}
 
-.SESSION-four-E {
-  left: 120px;
-  top: 12300px;
-  position: absolute;
-}
-
-.SESSION-four-S2 {
-  left: 305px;
-  top: 12300px;
-  position: absolute;
-}
-
-.SESSION-four-S3 {
-  left: 455px;
-  top: 12300px;
-  position: absolute;
-}
-
-.SESSION-four-I {
-  left: 575px;
-  top: 12300px;
-  position: absolute;
-}
-
-.SESSION-four-O {
-  left: 695px;
-  top: 12300px;
-  position: absolute;
-}
-
-.SESSION-four-N {
-  left: 815px;
-  top: 12300px;
-  position: absolute;
-}
-
-
-
-
-
-/* session FOUR */
-.session-FOUR-F {
-  left: 790px;
-  top: 12740px;
-  position: absolute;
-}
-
-.session-FOUR-O {
-  left: 980px;
-  top: 12740px;
-  position: absolute;
-}
-
-.session-FOUR-U {
-  left: 1100px;
-  top: 12740px;
-  position: absolute;
-}
-
-.session-FOUR-R {
-  left: 1265px;
-  top: 12740px;
-  position: absolute;
-}
-
-
-
-
-
-/* SESSION five */
-.SESSION-five-S1 {
-  left: 0;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-E {
-  left: 120px;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-S2 {
-  left: 305px;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-S3 {
-  left: 455px;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-I {
-  left: 575px;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-O {
-  left: 695px;
-  top: 13900px;
-  position: absolute;
-}
-
-.SESSION-five-N {
-  left: 815px;
-  top: 13900px;
-  position: absolute;
-}
-
-
-
-
-
-/* session FIVE */
-.session-FIVE-F {
-  left: 860px;
-  top: 14340px;
-  position: absolute;
-}
-
-.session-FIVE-I {
-  left: 1020px;
-  top: 14340px;
-  position: absolute;
-}
-
-.session-FIVE-V {
-  left: 1100px;
-  top: 14340px;
-  position: absolute;
-}
-
-.session-FIVE-E {
-  left: 1265px;
-  top: 14340px;
-  position: absolute;
-}
-
-
-
-
-/* KEYNOTE three */
-.KEYNOTE-three-K {
-  left: 0;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-E1 {
-  left: 160px;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-Y {
-  left: 320px;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-N {
-  left: 480px;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-O {
-  left: 675px;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-T {
-  left: 795px;
-  top: 15300px;
-  position: absolute;
-}
-
-.KEYNOTE-three-E2 {
-  left: 950px;
-  top: 15300px;
-  position: absolute;
-}
-
-
-
-
-/* keynote THREE */
-.keynote-THREE-T {
-  left: 620px;
-  top: 15740px;
-  position: absolute;
-}
-
-.keynote-THREE-H {
-  left: 780px;
-  top: 15740px;
-  position: absolute;
-}
-
-.keynote-THREE-R {
-  left: 940px;
-  top: 15740px;
-  position: absolute;
-}
-
-.keynote-THREE-E1 {
-  left: 1100px;
-  top: 15740px;
-  position: absolute;
-}
-
-.keynote-THREE-E2 {
-  left: 1265px;
-  top: 15740px;
-  position: absolute;
-}
 
 
 
@@ -967,8 +442,8 @@
 
 /* PARTY */
 .text-party {
-  left: 0;
-  top: 2200px;
+  left: 50px;
+  top: -1180px;
   position: relative;
   transform: scale(0.8);
   transform-origin: 0 0;
