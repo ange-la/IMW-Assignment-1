@@ -1,3 +1,86 @@
+.text-session1 {
+  left: 0;
+  top: -700px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-one {
+  left: 700px;
+  top: -910px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-session2 {
+  left: 0;
+  top: 50px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-two {
+  left: 700px;
+  top: -150px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-session3 {
+  left: 0;
+  top: 1050px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-three {
+  left: 700px;
+  top: 850px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-session4 {
+  left: 0;
+  top: 1600px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-four {
+  left: 700px;
+  top: 1400px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-session5 {
+  left: 0;
+  top: 2100px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-five {
+  left: 700px;
+  top: 1900px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+
+
+
 /* CAPITAL A */
 .vertical-rectangle-left-A-BLUE {
   background: #0000ff;

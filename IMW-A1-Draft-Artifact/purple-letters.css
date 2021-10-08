@@ -1,3 +1,72 @@
+.text-keynote1 {
+  left: 0;
+  top: 2400px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-k-one {
+  left: 700px;
+  top: 2200px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-keynote2 {
+  left: 0;
+  top: 2200px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-k-two {
+  left: 700px;
+  top: 2000px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-keynote3 {
+  left: 0;
+  top: 2650px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-k-three {
+  left: 700px;
+  top: 2460px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-keynote4 {
+  left: 0;
+  top: 2450px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+.text-k-four {
+  left: 700px;
+  top: 2250px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
+
+
+
+
+
+
 /* CAPITAL A */
 .vertical-rectangle-left-A-PURPLE {
   background: #8c29f5;

@@ -1,3 +1,102 @@
+.letter {
+
+  width: 280px; /*resize as you see fit */
+  height: 530px; /*resize as you see fit */
+  display: inline-block; /* this makes block level elements act like letters (so they sit next to eachother) */
+  position: relative; /* IMPORTANT: any element with position:absolute inside this container will now be relative to bounds of this element; */
+  overflow: hidden;
+}
+
+.letter-A {
+  width: 120px;
+}
+
+.letter-B {
+  width: 160px;
+}
+
+.letter-C {
+  width: 120px;
+}
+
+.letter-D {
+  width: 190px;
+}
+
+.letter-E {
+  width: 160px;
+}
+
+.letter-F {
+  width: 160px;
+}
+
+.letter-G {
+  width: 180px;
+}
+
+.letter-H {
+  width: 170px;
+}
+
+.letter-I {
+  width: 80px;
+}
+
+.letter-K {
+  width: 160px;
+}
+
+.letter-N {
+  width: 160px;
+}
+
+.letter-O {
+  width: 120px;
+}
+
+.letter-P {
+  width: 195px;
+}
+
+.letter-R {
+  width: 160px;
+}
+
+.letter-S {
+  width: 120px;
+}
+
+.letter-T {
+  width: 160px;
+}
+
+.letter-U {
+  width: 150px;
+}
+
+.letter-V {
+  width: 160px;
+}
+
+.letter-W {
+  width: 240px;
+}
+
+.letter-X {
+  width: 160px;
+}
+
+.letter-Y {
+  width: 160px;
+}
+
+.letter-Z {
+  width: 120px;
+}
+
+
+
 /* Paragraphs */
 .paragraph-1 {
   font: 25px Helvetica, sans-serif;
@@ -179,154 +278,49 @@
 
 
 /* THEORIZING the web KERNING */
-.THEORIZING-the-web-T {
+.text-theorizing {
   left: 0;
   top: 0;
-  position: absolute;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
-.THEORIZING-the-web-H {
-  left: 160px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-E {
-  left: 320px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-O {
-  left: 510px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-R {
-  left: 630px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-I1 {
-  left: 790px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-Z {
-  left: 910px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-I2 {
-  left: 1030px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-N {
-  left: 1110px;
-  top: 0;
-  position: absolute;
-}
-
-.THEORIZING-the-web-G {
-  left: 1305px;
-  top: 0;
-  position: absolute;
-}
 
 
 
 
 /* theorizing THE web KERNING */
-.theorizing-THE-web-T {
-  left: 305px;
-  top: 440px;
-  position: absolute;
-}
-
-.theorizing-THE-web-H {
-  left: 465px;
-  top: 440px;
-  position: absolute;
-}
-
-.theorizing-THE-web-E {
-  left: 625px;
-  top: 440px;
-  position: absolute;
+.text-the {
+  left: 0;
+  top: -100px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
 
 
 /* theorizing the WEB KERNING */
-.theorizing-the-WEB-W {
-  left: 865px;
-  top: 440px;
-  position: absolute;
-}
-
-.theorizing-the-WEB-E {
-  left: 1105px;
-  top: 440px;
-  position: absolute;
-}
-
-.theorizing-the-WEB-B {
-  left: 1265px;
-  top: 440px;
-  position: absolute;
+.text-web {
+  left: 600px;
+  top: -630px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
 
 
 /* PROGRAM */
-.PROGRAM-P {
+.text-program {
   left: 0;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-R1 {
-  left: 160px;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-O {
-  left: 360px;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-G {
-  left: 520px;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-R2 {
-  left: 660px;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-A {
-  left: 860px;
-  top: 1240px;
-  position: absolute;
-}
-
-.PROGRAM-M {
-  left: 980px;
-  top: 1240px;
-  position: absolute;
+  top: -400px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -334,40 +328,12 @@
 
 
 /* FRIDAY october sixteen */
-.FRIDAY-october-sixteen-F {
+.text-friday {
   left: 0;
-  top: 1680px;
-  position: absolute;
-}
-
-.FRIDAY-october-sixteen-R {
-  left: 160px;
-  top: 1680px;
-  position: absolute;
-}
-
-.FRIDAY-october-sixteen-I {
-  left: 320px;
-  top: 1680px;
-  position: absolute;
-}
-
-.FRIDAY-october-sixteen-D {
-  left: 400px;
-  top: 1680px;
-  position: absolute;
-}
-
-.FRIDAY-october-sixteen-A {
-  left: 599px;
-  top: 1680px;
-  position: absolute;
-}
-
-.FRIDAY-october-sixteen-Y {
-  left: 720px;
-  top: 1680px;
-  position: absolute;
+  top: -400px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -377,46 +343,12 @@
 
 
 /* friday OCTOBER sixteen */
-.friday-OCTOBER-sixteen-O1 {
-  left: 305px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-C {
-  left: 460px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-T {
-  left: 580px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-O2 {
-  left: 740px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-B {
-  left: 860px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-E {
-  left: 1020px;
-  top: 2120px;
-  position: absolute;
-}
-
-.friday-OCTOBER-sixteen-R {
-  left: 1180px;
-  top: 2120px;
-  position: absolute;
+.text-october-16 {
+  left: 0;
+  top: -400px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -425,46 +357,12 @@
 
 
 /* friday october SIXTEEN */
-.friday-october-SIXTEEN-S {
+.text-sixteen {
   left: 420px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-I {
-  left: 540px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-X {
-  left: 620px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-T1 {
-  left: 780px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-E1 {
-  left: 940px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-E2 {
-  left: 1100px;
-  top: 2560px;
-  position: absolute;
-}
-
-.friday-october-SIXTEEN-N {
-  left: 1265px;
-  top: 2560px;
-  position: absolute;
+  top: -500px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -473,48 +371,9 @@
 
 
 
-/* SESSION one */
-.SESSION-one-S1 {
-  left: 0;
-  top: 3000px;
-  position: absolute;
-}
 
-.SESSION-one-E {
-  left: 120px;
-  top: 3000px;
-  position: absolute;
-}
 
-.SESSION-one-S2 {
-  left: 305px;
-  top: 3000px;
-  position: absolute;
-}
 
-.SESSION-one-S3 {
-  left: 455px;
-  top: 3000px;
-  position: absolute;
-}
-
-.SESSION-one-I {
-  left: 575px;
-  top: 3000px;
-  position: absolute;
-}
-
-.SESSION-one-O {
-  left: 695px;
-  top: 3000px;
-  position: absolute;
-}
-
-.SESSION-one-N {
-  left: 815px;
-  top: 3000px;
-  position: absolute;
-}
 
 
 
@@ -837,52 +696,12 @@
 
 
 /* SATURDAY october seventeen */
-.SATURDAY-october-seventeen-S {
+.text-saturday {
   left: 0;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-A1 {
-  left: 155px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-T {
-  left: 275px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-U {
-  left: 430px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-R {
-  left: 590px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-D {
-  left: 750px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-A2 {
-  left: 945px;
-  top: 10960px;
-  position: absolute;
-}
-
-.SATURDAY-october-seventeen-Y {
-  left: 1070px;
-  top: 10960px;
-  position: absolute;
+  top: 1900px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -890,46 +709,12 @@
 
 
 /* saturday OCTOBER seventeen */
-.saturday-OCTOBER-seventeen-O1 {
+.text-october-17 {
   left: 305px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-C {
-  left: 460px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-T {
-  left: 580px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-O2 {
-  left: 740px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-B {
-  left: 860px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-E {
-  left: 1020px;
-  top: 11400px;
-  position: absolute;
-}
-
-.saturday-OCTOBER-seventeen-R {
-  left: 1180px;
-  top: 11400px;
-  position: absolute;
+  top: 1700px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -937,58 +722,12 @@
 
 
 /* saturday october SEVENTEEN */
-.saturday-october-SEVENTEEN-S {
-  left: 20px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-E1 {
-  left: 140px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-V {
-  left: 300px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-E2 {
-  left: 460px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-N1 {
-  left: 620px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-T {
-  left: 780px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-E3 {
-  left: 940px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-E4 {
-  left: 1100px;
-  top: 11840px;
-  position: absolute;
-}
-
-.saturday-october-SEVENTEEN-N2 {
-  left: 1265px;
-  top: 11840px;
-  position: absolute;
+.text-seventeen {
+  left: 200px;
+  top: 1500px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
@@ -1226,111 +965,13 @@
 
 
 
-/* KEYNOTE four */
-.KEYNOTE-four-K {
-  left: 0;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-E1 {
-  left: 160px;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-Y {
-  left: 320px;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-N {
-  left: 480px;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-O {
-  left: 675px;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-T {
-  left: 795px;
-  top: 16200px;
-  position: absolute;
-}
-
-.KEYNOTE-four-E2 {
-  left: 950px;
-  top: 16200px;
-  position: absolute;
-}
-
-
-
-
-
-/* keynote FOUR */
-.keynote-FOUR-F {
-  left: 790px;
-  top: 16640px;
-  position: absolute;
-}
-
-.keynote-FOUR-O {
-  left: 980px;
-  top: 16640px;
-  position: absolute;
-}
-
-.keynote-FOUR-U {
-  left: 1100px;
-  top: 16640px;
-  position: absolute;
-}
-
-.keynote-FOUR-R {
-  left: 1265px;
-  top: 16640px;
-  position: absolute;
-}
-
-
-
-
-
 /* PARTY */
-.PARTY-P {
+.text-party {
   left: 0;
-  top: 17100px;
-  position: absolute;
-}
-
-.PARTY-A {
-  left: 200px;
-  top: 17100px;
-  position: absolute;
-}
-
-.PARTY-R {
-  left: 320px;
-  top: 17100px;
-  position: absolute;
-}
-
-.PARTY-T {
-  left: 480px;
-  top: 17100px;
-  position: absolute;
-}
-
-.PARTY-Y {
-  left: 640px;
-  top: 17100px;
-  position: absolute;
+  top: 2200px;
+  position: relative;
+  transform: scale(0.8);
+  transform-origin: 0 0;
 }
 
 
