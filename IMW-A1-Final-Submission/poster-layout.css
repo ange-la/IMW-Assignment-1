@@ -82,7 +82,7 @@
 
 .letter-P {
   width: 160px;
-  margin-right: 48px;
+  margin-right: 45px;
 }
 
 .letter-R {
@@ -139,6 +139,35 @@
 
 
 
+
+/* LINKS TO TAKE TO NEXT SECTION OF SINGLE PAGE WEB */
+/* https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links */
+/* https://www.w3schools.com/css/css_padding.asp */
+/* REMOVE UNDERLINE https://www.w3schools.com/css/css_link.asp */
+a {
+  font: 20px Helvetica, sans-serif;
+  padding-left: 75px;
+  padding-right: 145px;
+  padding-top: 4px;
+  text-decoration: none;
+  color: #b4b4b4;
+  display: inline-block;
+}
+
+/* BRING LINKS FORWARD https://www.w3schools.com/cssref/pr_pos_z-index.asp */
+.links {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10;
+}
+
+
+
+
+
+
 /* Paragraphs */
 .paragraph-1 {
   font: 22px Helvetica, sans-serif;
@@ -149,7 +178,7 @@
 
 .paragraph-2 {
   font: 22px Helvetica, sans-serif;
-  left: 220px;
+  left: 100px;
   top: -1650px;
   position: relative;
 }
@@ -244,7 +273,7 @@
 
 .paragraph-14 {
   font: 22px Helvetica, sans-serif;
-  left: 60px;
+  left: 100px;
   top: -6915px;
   position: relative;
   width: 400px;
@@ -320,7 +349,7 @@
 
 
 /* THEORIZING the web KERNING */
-.text-theorizing {
+#text-theorizing {
   left: 80px;
   top: 0;
   position: relative;
@@ -370,7 +399,7 @@
 
 
 /* FRIDAY october sixteen */
-.text-friday {
+#text-friday {
   left: 50px;
   top: -1060px;
   position: relative;
@@ -413,7 +442,7 @@
 
 
 /* SATURDAY october seventeen */
-.text-saturday {
+#text-saturday {
   left: 80px;
   top: -6340px;
   position: relative;
@@ -427,7 +456,7 @@
 
 /* saturday OCTOBER seventeen */
 .text-october-17 {
-  left: 205px;
+  left: 210px;
   top: -6510px;
   position: relative;
   transform: scale(0.8);
@@ -440,7 +469,7 @@
 
 /* saturday october SEVENTEEN */
 .text-seventeen {
-  left: 340px;
+  left: 380px;
   top: -6680px;
   position: relative;
   transform: scale(0.8);
